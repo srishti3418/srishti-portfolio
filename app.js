@@ -1,4 +1,5 @@
 // Portfolio JavaScript functionality
+// adding comment to check git
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile Navigation Toggle
